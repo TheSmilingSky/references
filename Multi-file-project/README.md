@@ -1,5 +1,7 @@
 # A simple illustration to work with multi-file projects in cpp
 
+You can find a detailed tutorial for this [here](https://thesmilingsky.github.io/tutorial/2020/04/02/multifile.html)
+
 To compile and run the program, follow these steps - 
 
 * Navigate to the src folder and open the folder in terminal. Use the -c flag to compile the files into object code. When the -c option is NOT used, the compiler will expect the command to give everything necessary to compile AND link -- to make the executable.
